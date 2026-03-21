@@ -14,6 +14,22 @@ I build scalable web applications with a strong focus on performance, clean arch
 
 ---
 
+## 💼 Professional Experience
+
+**Software Developer**  
+🏢 Company (Private - Azure DevOps)
+
+- Built and maintained **production-grade Angular applications**
+- Developed **real-time audio recording system** using WebSockets & MediaRecorder
+- Integrated **silence detection and background noise handling**
+- Worked with **.NET APIs and JWT authentication**
+- Improved performance and optimized component architecture
+- Collaborated in **Agile/Scrum environment**
+
+> 🔒 Note: Projects are hosted in private Azure DevOps repositories
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🚀 Core (Daily Use)
