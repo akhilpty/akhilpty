@@ -6,7 +6,7 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([(https://www.linkedin.com/in/akhillinkin/])
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/akhilpty)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)
 
@@ -14,15 +14,15 @@
 
 ## 🧰 Tech Stack
 
-![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)
-![.NET](https://img.shields.io/badge/.NET-purple?style=flat&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-green?style=flat&logo=csharp)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -44,12 +44,6 @@
 
 ## ⚡ About Me
 
-- 🔭 Working on Angular & Real-time systems  
+- 🔭 Working on Angular & real-time applications  
 - 🌱 Learning advanced backend architecture  
-- ⚡ Love building scalable applications  
-
----
-
-## ⭐ Profile Views
-
-![Visitors](https://komarev.com/ghpvc/?username=akhilpty)
+- ⚡ Focused on scalable and clean code  
