@@ -6,7 +6,7 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([(https://www.linkedin.com/in/akhillinkin/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akhillinkin/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/akhilpty)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)
 
