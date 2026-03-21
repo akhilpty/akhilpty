@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhil
 
-💻 **Angular Developer** | 🚀 **Full Stack Developer** | 🎯 **Problem Solver**
+💻 **Angular Developer** | 🚀 **Full Stack Developer** | 🎯 **Problem Solver**  
 
 I build scalable web applications with a strong focus on performance, clean architecture, and real-time systems.
 
@@ -20,10 +20,10 @@ I build scalable web applications with a strong focus on performance, clean arch
 🏢 Gritstone Technologies · Full-time  
 📍 Trivandrum, Kerala, India | 🗓️ Jan 2025 – Present  
 
-- Developing and maintaining **scalable Angular applications** for production  
+- Developing and maintaining **scalable Angular applications**  
 - Working with **Angular Material & advanced UI components**  
 - Building **real-time features** using WebSockets  
-- Implementing **audio recording systems** with silence detection & MediaRecorder  
+- Implementing **audio recording systems** (MediaRecorder, silence detection)  
 - Collaborating with backend teams for **API integration & performance optimization**  
 - Following **Agile/Scrum practices**  
 
@@ -33,13 +33,13 @@ I build scalable web applications with a strong focus on performance, clean arch
 🏢 Alphalyze · Full-time  
 🗓️ Oct 2023 – Dec 2024  
 
-- Developed **ERP systems** (Finance, Inventory, HR modules)  
+- Developed **ERP systems** (Finance, Inventory, HR)  
 - Built responsive UI using **Angular, SCSS & Bootstrap**  
-- Handled **end-to-end feature development** (design → implementation)  
-- Improved performance and maintainability of applications  
-- Collaborated with stakeholders to deliver business requirements  
+- Handled **end-to-end development** (design → implementation)  
+- Improved application performance and maintainability  
+- Worked closely with stakeholders on requirements  
 
-
+> 🔒 Company projects are hosted in private Azure DevOps repositories
 
 ---
 
@@ -60,6 +60,7 @@ I build scalable web applications with a strong focus on performance, clean arch
 ### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 ---
 
 ## 📚 Learning
@@ -78,9 +79,7 @@ I build scalable web applications with a strong focus on performance, clean arch
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ---
-## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpty&layout=compact&hide_border=true)
 ## 🚀 Projects
 
 - 🛒 **E-Commerce Platform**  
@@ -98,7 +97,10 @@ I build scalable web applications with a strong focus on performance, clean arch
 ## 📊 GitHub Stats
 
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilpty&show_icons=true&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhilpty&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpty&layout=compact&hide_border=true&langs_count=8)
+
+> ⚠️ Language stats reflect public repositories only
 
 ---
 
