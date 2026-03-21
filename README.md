@@ -1,75 +1,55 @@
-<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/db7dfe9f-e6fd-4e52-b6a0-2ac45b1a96ff" /># 👋 Hi, I'm Akhil
+# 👋 Hi, I'm Akhil
 
-💻 Angular Developer | 🚀 Full Stack Enthusiast | 🎯 Problem Solver  
+💻 Angular Developer | 🚀 Full Stack Developer | 🎯 Problem Solver  
 
 ---
 
 ## 🌐 Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/akhilpty)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)
 
 ---
 
 ## 🧰 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,dotnet,cs,sql,git,github,vscode" />
-</p>
+![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)
+![.NET](https://img.shields.io/badge/.NET-purple?style=flat&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-green?style=flat&logo=csharp)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 
 ---
 
 ## 🚀 Projects
 
-- 🛒 **E-Commerce App** – Angular + .NET 8 + JWT  
-- 🎙️ **Audio Recording Service** – Silence detection + WebSockets  
-- 📊 **Dashboard System** – Real-time analytics  
+- 🛒 E-Commerce App (Angular + .NET 8 + JWT)
+- 🎙️ Audio Recording System (WebSockets + Silence Detection)
+- 🏥 Medical Management System
+- 📰 News Portal (Django)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=akhilpty&show_icons=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhilpty)
 
 ---
 
-## 🏆 Achievements
+## ⚡ About Me
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" />
-</p>
-
----
-
-## 🔥 Activity Graph
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" />
-</p>
+- 🔭 Working on Angular & Real-time systems  
+- 🌱 Learning advanced backend architecture  
+- ⚡ Love building scalable applications  
 
 ---
 
-## ⚡ Fun Fact
+## ⭐ Profile Views
 
-💡 I build scalable Angular apps and love working with real-time systems.
-
----
-
-## ⭐ Visitors Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=akhilpty)
