@@ -16,10 +16,8 @@ I build scalable web applications with a strong focus on performance, clean arch
 
 ## 🧰 Tech Stack
 
-### 🚀 Frontend
+### 🚀 Core (Daily Use)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
@@ -29,13 +27,23 @@ I build scalable web applications with a strong focus on performance, clean arch
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+### ⚙️ Backend (Experience)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ---
 
@@ -48,10 +56,8 @@ I build scalable web applications with a strong focus on performance, clean arch
   WebSockets, Silence Detection, MediaRecorder API  
 
 - 🏥 **Medical Management System**  
-  Dynamic forms, structured data rendering  
 
-- 📰 **News Portal**  
-  Django-based content platform  
+- 📰 **News Portal (Django)**  
 
 ---
 
@@ -64,13 +70,13 @@ I build scalable web applications with a strong focus on performance, clean arch
 
 ## ⚡ About Me
 
-- 🔭 Currently working on **Angular & real-time applications**
-- 🌱 Learning **React & Next.js**
-- 🧠 Exploring **scalable backend architecture**
-- ⚡ Focused on **clean code & performance optimization**
+- 🔭 Working on **Angular & real-time applications**
+- 🌱 Currently learning **React, Next.js, .NET & C#**
+- 🧠 Experienced with **Django & Python**
+- ⚡ Focused on **scalable architecture & clean code**
 
 ---
 
 ## 💡 Fun Fact
 
-I enjoy building real-time systems and solving complex frontend architecture problems 🚀
+I enjoy building real-time systems and solving complex frontend challenges 🚀
