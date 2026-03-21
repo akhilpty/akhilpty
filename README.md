@@ -16,17 +16,30 @@ I build scalable web applications with a strong focus on performance, clean arch
 
 ## 💼 Professional Experience
 
-**Software Developer**  
-🏢 Company (Private - Azure DevOps)
+### **Product Engineer - Frontend (Angular)**  
+🏢 Gritstone Technologies · Full-time  
+📍 Trivandrum, Kerala, India | 🗓️ Jan 2025 – Present  
 
-- Built and maintained **production-grade Angular applications**
-- Developed **real-time audio recording system** using WebSockets & MediaRecorder
-- Integrated **silence detection and background noise handling**
-- Worked with **.NET APIs and JWT authentication**
-- Improved performance and optimized component architecture
-- Collaborated in **Agile/Scrum environment**
+- Developing and maintaining **scalable Angular applications** for production  
+- Working with **Angular Material & advanced UI components**  
+- Building **real-time features** using WebSockets  
+- Implementing **audio recording systems** with silence detection & MediaRecorder  
+- Collaborating with backend teams for **API integration & performance optimization**  
+- Following **Agile/Scrum practices**  
 
-> 🔒 Note: Projects are hosted in private Azure DevOps repositories
+---
+
+### **Angular Developer**  
+🏢 Alphalyze · Full-time  
+🗓️ Oct 2023 – Dec 2024  
+
+- Developed **ERP systems** (Finance, Inventory, HR modules)  
+- Built responsive UI using **Angular, SCSS & Bootstrap**  
+- Handled **end-to-end feature development** (design → implementation)  
+- Improved performance and maintainability of applications  
+- Collaborated with stakeholders to deliver business requirements  
+
+
 
 ---
 
@@ -89,10 +102,10 @@ I build scalable web applications with a strong focus on performance, clean arch
 
 ## ⚡ About Me
 
-- 🔭 Working on **Angular & real-time applications**
-- 🌱 Learning **React, Next.js, .NET & C#**
-- 🧠 Familiar with **Python & Django**
-- ⚡ Focused on **clean code, performance & scalability**
+- 🔭 Working on **Angular & real-time applications**  
+- 🌱 Learning **React, Next.js, .NET & C#**  
+- 🧠 Familiar with **Python & Django**  
+- ⚡ Focused on **clean code, performance & scalability**  
 
 ---
 
