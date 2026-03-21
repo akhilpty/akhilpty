@@ -27,23 +27,26 @@ I build scalable web applications with a strong focus on performance, clean arch
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend (Experience)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## 📚 Learning
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+---
+
+## 🧠 Familiar With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ---
 
@@ -57,7 +60,7 @@ I build scalable web applications with a strong focus on performance, clean arch
 
 - 🏥 **Medical Management System**  
 
-- 📰 **News Portal (Django)**  
+- 📰 **News Portal (Django - Practice Project)**  
 
 ---
 
@@ -71,9 +74,9 @@ I build scalable web applications with a strong focus on performance, clean arch
 ## ⚡ About Me
 
 - 🔭 Working on **Angular & real-time applications**
-- 🌱 Currently learning **React, Next.js, .NET & C#**
-- 🧠 Experienced with **Django & Python**
-- ⚡ Focused on **scalable architecture & clean code**
+- 🌱 Learning **React, Next.js, .NET & C#**
+- 🧠 Familiar with **Python & Django**
+- ⚡ Focused on **clean code, performance & scalability**
 
 ---
 
