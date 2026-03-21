@@ -1,26 +1,39 @@
 # 👋 Hi, I'm Akhil
 
-💻 Angular Developer | 🚀 Full Stack Developer | 🎯 Problem Solver  
+💻 **Angular Developer** | 🚀 **Full Stack Developer** | 🎯 **Problem Solver**
+
+I build scalable web applications with a strong focus on performance, clean architecture, and real-time systems.
 
 ---
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akhillinkin/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/akhilpty)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:akhilpattazhy1998@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhillinkin/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/akhilpty)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akhilpattazhy1998@gmail.com)
 
 ---
 
 ## 🧰 Tech Stack
 
+### 🚀 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🎨 Styling
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -28,22 +41,36 @@
 
 ## 🚀 Projects
 
-- 🛒 E-Commerce App (Angular + .NET 8 + JWT)
-- 🎙️ Audio Recording System (WebSockets + Silence Detection)
-- 🏥 Medical Management System
-- 📰 News Portal (Django)
+- 🛒 **E-Commerce Platform**  
+  Angular + .NET 8 + JWT Authentication  
+
+- 🎙️ **Real-Time Audio Recording System**  
+  WebSockets, Silence Detection, MediaRecorder API  
+
+- 🏥 **Medical Management System**  
+  Dynamic forms, structured data rendering  
+
+- 📰 **News Portal**  
+  Django-based content platform  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=akhilpty&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhilpty)
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilpty&show_icons=true&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhilpty&hide_border=true)
 
 ---
 
 ## ⚡ About Me
 
-- 🔭 Working on Angular & real-time applications  
-- 🌱 Learning advanced backend architecture  
-- ⚡ Focused on scalable and clean code  
+- 🔭 Currently working on **Angular & real-time applications**
+- 🌱 Learning **React & Next.js**
+- 🧠 Exploring **scalable backend architecture**
+- ⚡ Focused on **clean code & performance optimization**
+
+---
+
+## 💡 Fun Fact
+
+I enjoy building real-time systems and solving complex frontend architecture problems 🚀
