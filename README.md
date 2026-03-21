@@ -78,7 +78,9 @@ I build scalable web applications with a strong focus on performance, clean arch
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ---
+## 📊 Most Used Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpty&layout=compact&hide_border=true)
 ## 🚀 Projects
 
 - 🛒 **E-Commerce Platform**  
