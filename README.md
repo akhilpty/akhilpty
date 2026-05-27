@@ -129,18 +129,6 @@ I build **high-performance, scalable web applications** with a strong focus on *
 
 ---
 
-## 🏆 GitHub Achievements
-
-> GitHub trophy service may temporarily show `Invalid upstream response (402)` due to API limits on the free Vercel deployment.
->
-> You can re-enable it later using:
->
-> ```md
-> ![trophy](https://github-profile-trophy.vercel.app/?username=akhilpty)
-> ```
-
----
-
 
 
 ## ⚡ About Me
