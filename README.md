@@ -172,16 +172,6 @@ I enjoy building real-time apps — because speed and responsiveness define grea
 
 ---
 
-## 🛠️ GitHub Profile README Setup
-
-Create a repository with the exact same name as your GitHub username:
-
-```bash
-akhilpty
-```
-
-Then add this README.md file inside it.
-
 ---
 
 ⭐ From [akhilpty](https://github.com/akhilpty)
