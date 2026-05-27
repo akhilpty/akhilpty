@@ -141,11 +141,7 @@ I build **high-performance, scalable web applications** with a strong focus on *
 
 ---
 
-## 📈 Contribution Graph
 
-[![Akhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhilpty\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## ⚡ About Me
 
