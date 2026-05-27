@@ -131,8 +131,8 @@ I build **high-performance, scalable web applications** with a strong focus on *
 
 ## 🏆 GitHub Achievements
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=akhilpty&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhilpty&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub trophies" />
 </p>
 
 ---
