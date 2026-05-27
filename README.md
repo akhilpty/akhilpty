@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Akhil
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=akhilpty&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/akhilpty?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/akhilpty?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
+</p>
+
 💻 **Frontend-Focused Full Stack Developer** | ⚡ **Angular Specialist** | 🚀 **Real-Time Systems Builder**
 
 I build **high-performance, scalable web applications** with a strong focus on **real-time systems, clean architecture, and user-centric design**.
@@ -8,8 +14,8 @@ I build **high-performance, scalable web applications** with a strong focus on *
 
 ## 🌐 Connect with me
 
-* 🔗 LinkedIn: [https://www.linkedin.com/in/akhillinkin/](https://www.linkedin.com/in/akhillinkin/)
-* 💻 GitHub: [https://github.com/akhilpty](https://github.com/akhilpty)
+* 🔗 LinkedIn: [linkedin.com/in/akhillinkin](https://www.linkedin.com/in/akhillinkin/)
+* 💻 GitHub: [github.com/akhilpty](https://github.com/akhilpty)
 * 📧 Email: [akhilpattazhy1998@gmail.com](mailto:akhilpattazhy1998@gmail.com)
 
 ---
@@ -24,8 +30,9 @@ I build **high-performance, scalable web applications** with a strong focus on *
 * Developing real-time features using WebSockets
 * Creating advanced UI systems with Angular Material
 * Implemented audio recording system with silence detection (MediaRecorder API)
-* Optimizing API integration and performance
+* Optimizing API integration and frontend performance
 * Working in Agile teams with cross-functional collaboration
+* Participating in PR reviews, deployments, and feature planning
 
 ---
 
@@ -37,16 +44,29 @@ I build **high-performance, scalable web applications** with a strong focus on *
 * Built responsive and maintainable UI components
 * Improved performance and code quality
 * Translated business requirements into technical solutions
-* Delivered end-to-end features
+* Delivered end-to-end production features
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend:** Angular, TypeScript, JavaScript, HTML, SCSS
-**UI:** Angular Material, Bootstrap
-**Backend:** .NET, REST APIs
-**Database & Tools:** MySQL, Git
+### 🚀 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,bootstrap" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,python,django,nodejs" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+</p>
 
 ---
 
@@ -54,40 +74,72 @@ I build **high-performance, scalable web applications** with a strong focus on *
 
 * React & Next.js
 * Advanced .NET & System Design
+* High-performance frontend architecture
+* Real-time communication systems
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Platform
 
 * Angular + .NET 8
 * JWT Authentication
 * Role-based access control
+* REST API architecture
 
 ### 🎙️ Real-Time Audio System
 
 * WebSockets + MediaRecorder
 * Silence detection
 * Live streaming features
+* Real-time audio processing
+
+### 📈 Market Buddy (Stock Analysis Platform)
+
+* FastAPI + Flutter + Angular concepts
+* Real-time stock tracking
+* Technical indicators (RSI, MACD, EMA)
+* AI-powered market insights
 
 ### 🏥 Medical Management System
 
-* Full-stack system
+* Full-stack management platform
 * Role-based architecture
+* Modular frontend components
 
 ### 📰 News Portal (Django)
 
 * Backend-focused project
 * Content management system
+* Authentication & admin features
 
 ---
 
 ## 📊 GitHub Stats
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilpty\&show_icons=true\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilpty&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpty&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpty\&layout=compact\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilpty&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=akhilpty&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Akhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhilpty\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -97,9 +149,39 @@ I build **high-performance, scalable web applications** with a strong focus on *
 * 🧠 Strong in problem solving and UI architecture
 * 🚀 Passionate about performance and scalability
 * 📈 Continuously improving full-stack skills
+* 🔥 Interested in scalable enterprise applications
+* 🎯 Always exploring modern frontend technologies
 
 ---
 
 ## 💡 Fun Fact
 
 I enjoy building real-time apps — because speed and responsiveness define great user experiences 🚀
+
+---
+
+## 🟢 Current Status
+
+```bash
+✔ Building scalable Angular applications
+✔ Learning advanced system design
+✔ Exploring real-time architectures
+✔ Contributing to production-grade projects
+✔ Improving backend & cloud skills
+```
+
+---
+
+## 🛠️ GitHub Profile README Setup
+
+Create a repository with the exact same name as your GitHub username:
+
+```bash
+akhilpty
+```
+
+Then add this README.md file inside it.
+
+---
+
+⭐ From [akhilpty](https://github.com/akhilpty)
